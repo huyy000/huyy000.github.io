@@ -5064,6 +5064,7 @@ header h2 {
 header h4 {
   font-family: 'Pacifico';
   text-align: center;
+  font-size: 24px;
 }
 
 @media only screen and (max-width: 500px) {
